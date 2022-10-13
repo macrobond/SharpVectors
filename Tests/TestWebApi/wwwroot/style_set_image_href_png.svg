@@ -1,0 +1,14 @@
+﻿<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+	<style>
+		image {
+			href: url("fxlogo.png");
+			src: url("fxlogo.png");
+			content: url("fxlogo.png");
+		}
+		rect {
+			fill: red;
+		}
+	</style>
+	<rect width="10" height="10" />
+	<image width="50" height="50"/>
+</svg>

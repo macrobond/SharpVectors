@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+	<style>
+		@import url("https://fonts.googleapis.com/css?family=Tangerine");
+	</style>
+	<!--
+	<style><![CDATA[svg text{stroke:none}]]></style>
+	-->
+	<text x="0" y="50" font-family="Tangerine">Tangerine</text>
+	<text x="0" y="100" >no Tangerine</text>
+</svg>

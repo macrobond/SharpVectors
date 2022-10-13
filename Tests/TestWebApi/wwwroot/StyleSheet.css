@@ -1,0 +1,10 @@
+﻿
+image {
+    href: url("fxlogo.png");
+    src: url("fxlogo.png");
+    content: url("fxlogo.png");
+}
+
+rect {
+    fill: red;
+}

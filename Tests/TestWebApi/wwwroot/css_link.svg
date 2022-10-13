@@ -1,0 +1,7 @@
+﻿<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+	<link rel="stylesheet" href="StyleSheet.css" type="text/css"/>
+	<link xmlns="http://www.w3.org/1999/xhtml" rel="stylesheet" href="StyleSheet.css" type="text/css"/>
+	
+	<image width="50" height="50"/>
+	<rect width="10" height="10" />
+</svg>
